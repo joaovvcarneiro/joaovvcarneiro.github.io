@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Sobre
+## João Víctor Vieira Carneiro
 
 <img class="profile-picture" src="foto-jv.jpg">
 
