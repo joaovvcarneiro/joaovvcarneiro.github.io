@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    
+
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-152744176-1"></script>
     <script>
@@ -88,19 +88,15 @@
         </div>
         <div style="clear:both"></div>
         <hr>
-        {% if page.is_contact == true %}
-            <div class="container content contact">
-        {% else %}
-            <div class="container content">
-        {% endif %}
-                {{ content }}
-                {% if site.footer == true %}
-                    <hr />
-                    <p style="text-align: center; margin-bottom: 10px">
-                    <a href="{{ site.footer_url }}" style="color: black"><small>{{ site.footer_text }}</small></a>
-                    </p>
-                {% endif %}
-            </div>
+        <div class="container content">
+            {{ content }}
+            {% if site.footer == true %}
+                <hr />
+                <p style="text-align: center; margin-bottom: 10px">
+                <a href="{{ site.footer_url }}" style="color: black"><small>{{ site.footer_text }}</small></a>
+                </p>
+            {% endif %}
+        </div>
     </div>
 </body>
 <footer>
