@@ -3,6 +3,7 @@ url: "https://joaovvcarneiro.github.io"
 baseurl: "/"
 plugins:
   - jekyll-sitemap
+  - jekyll-seo-tag
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
