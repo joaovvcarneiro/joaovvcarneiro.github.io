@@ -1,6 +1,8 @@
 title: Researcher
 url: "https://joaovvcarneiro.github.io"
 baseurl: "/"
+plugins:
+  - jekyll-sitemap
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
