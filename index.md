@@ -2,22 +2,24 @@
 layout: default
 ---
 
-## About Me
+## Sobre
 
 <img class="profile-picture" src="foto-jv.jpg">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+Estudante de Direito na Universidade Federal do Paraná e técnico em informática. Membro do *Grupo de Estudos de Direito Autoral e Industrial* ([GEDAI](http://gedai.com.br)) e do grupo *Direito, Biotecnologia e Sociedade* ([BIOTEC](http://www.direito.ufpr.br/portal/biotec/)).
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+## Área de pesquisa
 
-## Research Interest
+A interseção entre direito e as novas tecnologias. Pesquisas desenvolvidas em privacidade e proteção de dados, cibercultura, surveillance, propriedade intelectual, entre outros temas.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+## Publicações
 
-## Publications
+1. Carneiro, J.V.V. Proteção de dados pessoais e direito à informação: impasses na gestão de arquivos públicos e o caso dos documentos da ditadura (1964-1985). Revista do Arquivo do Estado de São Paulo, n. 9, 2019. [Link](http://www.arquivoestado.sp.gov.br/revista_do_arquivo/09/artigo_03.php)
+2. Carneiro, J.V.V. O papel cultural dos memes na sociedade informacional e seus litígios com o direito autoral. Boletim do GEDAI, 2019. [Link](http://www.gedai.com.br/junho-2019/o-papel-cultural-dos-memes-na-sociedade-informacional-e-seus-litigios-com-o-direito-autoral/)
+3. Cramar, M.; Carneiro, J.V.V. A composição de músicas por inteligência artificial e sua tutela pelo direito autoral. Boletim do GEDAI, 2019. [Link](http://www.gedai.com.br/outubro-de-2019/a-composicao-de-musicas-por-inteligencia-artificial-e-sua-tutela-pelo-direito-autoral/)
+4. Glasmeyer, R.J.S.; Carneiro, J.V.V. O Artigo 13 da Diretiva do Parlamento Europeu e do Conselho Relativa aos Direitos de Autor no Mercado Único Digital: os filtros de conteúdo e o porquê da impossibilidade de uma análise meramente técnica dos direitos autorais. Anais do XII Congresso de Direito de Autor e Interesse Público, 2018. [Link](http://www.gedai.com.br/wp-content/uploads/2019/05/002-O-ARTIGO-13-DA-DIRETIVA-DO-PARLAMENTO-EUROPEU.pdf)
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+
 
 ## Typography
 
