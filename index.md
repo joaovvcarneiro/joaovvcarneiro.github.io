@@ -14,7 +14,7 @@ A interseção entre direito e as novas tecnologias. Pesquisas desenvolvidas em 
 
 ## Publicações
 
-1. Carneiro, J.V.V. Proteção de dados pessoais e direito à informação: impasses na gestão de arquivos públicos e o caso dos documentos da ditadura (1964-1985). Revista do Arquivo do Estado de São Paulo, n. 9, 2019. [Link](http://www.arquivoestado.sp.gov.br/revista_do_arquivo/09/artigo_03.php)
+1. Carneiro, J.V.V. *Proteção de dados pessoais e direito à informação: impasses na gestão de arquivos públicos e o caso dos documentos da ditadura* (1964-1985). Revista do Arquivo do Estado de São Paulo, n. 9, 2019. [Link](http://www.arquivoestado.sp.gov.br/revista_do_arquivo/09/artigo_03.php)
 2. Carneiro, J.V.V. O papel cultural dos memes na sociedade informacional e seus litígios com o direito autoral. Boletim do GEDAI, 2019. [Link](http://www.gedai.com.br/junho-2019/o-papel-cultural-dos-memes-na-sociedade-informacional-e-seus-litigios-com-o-direito-autoral/)
 3. Cramar, M.; Carneiro, J.V.V. A composição de músicas por inteligência artificial e sua tutela pelo direito autoral. Boletim do GEDAI, 2019. [Link](http://www.gedai.com.br/outubro-de-2019/a-composicao-de-musicas-por-inteligencia-artificial-e-sua-tutela-pelo-direito-autoral/)
 4. CARNEIRO, J.V.V. Entre norma jurídica e ciberespaço: breves considerações. Folha do Centro Acadêmico Hugo Simas, 2019. [Link](https://drive.google.com/file/d/1r6appTMrU0cIBbHbb7Z3W56hl86UV-ea/view#page=6)
@@ -23,7 +23,7 @@ A interseção entre direito e as novas tecnologias. Pesquisas desenvolvidas em 
 
 
 
-<\!---
+<!---
 ## Typography
 
 This is a [link](http://google.com). Something *italics* and something **bold**.
