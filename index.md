@@ -6,7 +6,9 @@ layout: default
 
 <img class="profile-picture" src="foto-jv.jpg">
 
-Estudante de Direito na Universidade Federal do Paraná e técnico em informática. Membro do *Grupo de Estudos de Direito Autoral e Industrial* ([GEDAI](http://gedai.com.br)) e do grupo *Direito, Biotecnologia e Sociedade* ([BIOTEC](http://www.direito.ufpr.br/portal/biotec/)).
+Estudante de Direito na Universidade Federal do Paraná e técnico em informática.
+Membro do *Grupo de Estudos de Direito Autoral e Industrial* ([GEDAI](http://gedai.com.br)).
+Membro do grupo *Direito, Biotecnologia e Sociedade* ([BIOTEC](http://www.direito.ufpr.br/portal/biotec/)).
 
 ## Área de pesquisa
 
