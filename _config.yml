@@ -10,6 +10,9 @@ plugins:
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
 
+include: [".htaccess"]
+exclude: ["README.md", "LICENSE"]
+
 tracking_id: #
 
 sass:
