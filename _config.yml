@@ -4,6 +4,7 @@ baseurl: "/"
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-paginate
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
