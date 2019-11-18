@@ -81,6 +81,10 @@ hr {
     padding-left: 8px;
     border-left: 4px solid $accent;
 }
+.small{
+    text-align: justify;
+    line-height: 80%;
+}
 .small > p{
     font-size: x-small;
 }
