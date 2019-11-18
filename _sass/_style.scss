@@ -81,11 +81,10 @@ hr {
     padding-left: 8px;
     border-left: 4px solid $accent;
 }
-small > p{
-    font-size: smaller;
+.small > p{
+    font-size: x-small;
 }
-
-small > a{
+.small > a{
     color:black !important;
     text-decoration: underline;
 }
