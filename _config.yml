@@ -19,6 +19,8 @@ exclude: ["README.md", "LICENSE"]
 
 tracking_id: #
 
+footer: yes
+
 sass:
     style: compressed
     sass_dir: _sass
