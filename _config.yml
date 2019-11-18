@@ -9,6 +9,10 @@ plugins:
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
+kramdown:
+  input: GFM
+  syntax_highlighter_opts:
+    disable : true
 
 include: [".htaccess"]
 exclude: ["README.md", "LICENSE"]
