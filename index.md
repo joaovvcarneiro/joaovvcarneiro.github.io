@@ -30,3 +30,5 @@ A interseção entre direito e as novas tecnologias. Pesquisas desenvolvidas em 
 5. Glasmeyer, R.J.S.; Carneiro, J.V.V. O Artigo 13 da Diretiva do Parlamento Europeu e do Conselho Relativa aos Direitos de Autor no Mercado Único Digital: os filtros de conteúdo e o porquê da impossibilidade de uma análise meramente técnica dos direitos autorais. Anais do XII CODAIP - Congresso de Direito de Autor e Interesse Público, 2018. [Link](http://www.gedai.com.br/wp-content/uploads/2019/05/002-O-ARTIGO-13-DA-DIRETIVA-DO-PARLAMENTO-EUROPEU.pdf)
 
 6. Carneiro, J.V.V.; ALMADA, G.M. A gênese do direito à proteção de dados brasileiro: uma conceitualização e contextualização histórica face à nova lei pátria e as relações do ramo com a propriedade intelectual. Anais do XII Congresso de Direito de Autor e Interesse Público, 2018. [Link](http://www.gedai.com.br/wp-content/uploads/2019/06/033-A-G%C3%8ANESE-DO-DIREITO-%C3%80-PROTE%C3%87%C3%83O-DE-DADOS-BRASILEIRO.pdf)
+
+<br>
