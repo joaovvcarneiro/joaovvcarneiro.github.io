@@ -89,11 +89,13 @@ hr {
     font-size: x-small;
 }
 .small > p > a{
-    color:black !important;
+    color: black !important;
     text-decoration: underline;
 }
-
 .justify-p > p{
+    text-align: justify;
+}
+.justify-p > ol > li{
     text-align: justify;
 }
 
