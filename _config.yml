@@ -15,6 +15,9 @@ sass:
     style: compressed
     sass_dir: _sass
 
+paginate: 5
+paginate_path: "/blog/page:num/"
+
 nav:
  - name: "Home"
    link: "/"
