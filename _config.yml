@@ -1,6 +1,7 @@
 title: João Víctor Vieira Carneiro
 url: "https://joaovvcarneiro.github.io"
-baseurl: "https://joaovvcarneiro.github.io/"
+#baseurl: "https://joaovvcarneiro.github.io/"
+baseurl: "https://joaovvcarneiro.github.io"
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
