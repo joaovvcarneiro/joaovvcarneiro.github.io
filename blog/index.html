@@ -9,7 +9,7 @@ title: Blog
   {% for post in site.posts %}
 
             <a href="{{ post.url }}" title="{{ post.title }}">
-                <h3> {{ post.title }} </h3>
+                <h3 style='font-weight: bold;'> {{ post.title }} </h3>
             </a><br>
             <span> {{ post.date | date_to_string }} </span> »<br>
             {{ post.excerpt }}
