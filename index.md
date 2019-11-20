@@ -5,7 +5,7 @@ title: "João Víctor Vieira Carneiro"
 
 ## Sobre
 
-<img class="profile-picture" src="foto-jv.jpg">
+<img class="profile-picture" src="foto-jv.png">
 
 Estudante de Direito na Universidade Federal do Paraná e técnico em informática.
 
