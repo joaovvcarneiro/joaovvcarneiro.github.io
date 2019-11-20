@@ -5,7 +5,7 @@ baseurl: "https://joaovvcarneiro.github.io"
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
-#  - jekyll-paginate
+  - jekyll-paginate
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
