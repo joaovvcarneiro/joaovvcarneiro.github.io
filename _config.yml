@@ -36,3 +36,5 @@ nav:
    link: "http://lattes.cnpq.br/6985257758397140"
  - name: "Blog"
    link: "/blog/"
+ - name: "Currículo"
+   link: "/assets/curriculo.pdf"
