@@ -33,6 +33,6 @@ A interseção entre direito e as novas tecnologias. Pesquisas desenvolvidas em 
 
 <br>
 
-<div class='curriculum'>
-### [Baixar currículo](https://joaovvcarneiro.github.io/assets/curriculo.pdf)
-</div>
+<h3 class='curriculum'>
+  <a href='https://joaovvcarneiro.github.io/assets/curriculo.pdf'> Baixar currículo </a>
+</h3>
