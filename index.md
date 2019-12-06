@@ -32,3 +32,5 @@ A interseção entre direito e as novas tecnologias. Pesquisas desenvolvidas em 
 6. Carneiro, J.V.V.; ALMADA, G.M. A gênese do direito à proteção de dados brasileiro: uma conceitualização e contextualização histórica face à nova lei pátria e as relações do ramo com a propriedade intelectual. Anais do XII Congresso de Direito de Autor e Interesse Público, 2018. [Link](http://www.gedai.com.br/wp-content/uploads/2019/06/033-A-G%C3%8ANESE-DO-DIREITO-%C3%80-PROTE%C3%87%C3%83O-DE-DADOS-BRASILEIRO.pdf)
 
 <br>
+
+### [Baixar currículo](https://joaovvcarneiro.github.io/assets/curriculo.pdf)
