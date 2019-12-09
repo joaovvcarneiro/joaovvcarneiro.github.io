@@ -34,5 +34,6 @@ nav:
    link: "/"
  - name: "Lattes"
    link: "http://lattes.cnpq.br/6985257758397140"
- - name: "Blog"
-   link: "/blog/"
+#blog desativado temporariamente 
+# - name: "Blog"
+#   link: "/blog/"
