@@ -17,7 +17,7 @@ Membro do grupo *Direito, Biotecnologia e Sociedade* ([BIOTEC](http://www.direit
 
 A interseção entre direito e as novas tecnologias. Pesquisas desenvolvidas em privacidade e proteção de dados, cibercultura, surveillance, propriedade intelectual, entre outros temas.
 
-## Publicações
+## Publicações selecionadas
 
 1. Carneiro, J.V.V. *Proteção de dados pessoais e direito à informação: impasses na gestão de arquivos públicos e o caso dos documentos da ditadura* (1964-1985). Revista do Arquivo do Estado de São Paulo, n. 9, 2019. [Link](http://www.arquivoestado.sp.gov.br/revista_do_arquivo/09/artigo_03.php)
 
