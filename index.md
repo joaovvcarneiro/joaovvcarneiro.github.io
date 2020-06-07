@@ -19,6 +19,10 @@ A interseção entre direito e as novas tecnologias. Pesquisas desenvolvidas em 
 
 ## Publicações selecionadas
 
+1. Freitas, C.O.A; Carneiro, J.V.V.; Glasmeyer, R.J.S. O tratamento de dados pessoais e sensíveis frente ao contact tracing durante o Covid-19. _Boletim do GEDAI_, 2020. [Link](https://www.gedai.com.br/o-tratamento-de-dados-pessoais-e-sensiveis-frente-ao-contact-tracing-durante-o-covid-19/)
+
+1. Garmatter, B.B.; Carneiro, J.V.V.; Cortiano, M. Virtualização da cultura e a pandemia da Covid-19. _Boletim do GEDAI_, 2020. [Link](https://www.gedai.com.br/virtualizacao-da-cultura-e-a-pandemia-da-covid-19/)
+
 1. Carneiro, J.V.V. Proteção de dados pessoais e direito à informação: impasses na gestão de arquivos públicos e o caso dos documentos da ditadura (1964-1985). _Revista do Arquivo do Estado de São Paulo_, n. 9, 2019. [Link](http://www.arquivoestado.sp.gov.br/revista_do_arquivo/09/artigo_03.php)
 
 2. Carneiro, J.V.V. O papel cultural dos memes na sociedade informacional e seus litígios com o direito autoral. _Boletim do GEDAI, 2019_. [Link](http://www.gedai.com.br/junho-2019/o-papel-cultural-dos-memes-na-sociedade-informacional-e-seus-litigios-com-o-direito-autoral/)
