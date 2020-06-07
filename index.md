@@ -13,6 +13,8 @@ Membro do *Grupo de Estudos de Direito Autoral e Industrial* ([GEDAI](http://ged
 
 Membro do grupo *Direito, Biotecnologia e Sociedade* ([BIOTEC](http://www.direito.ufpr.br/portal/biotec/)).
 
+Pesquisador de iniciação científica, sob orientação da profª Adriana Corrêa.
+
 ## Área de pesquisa
 
 A interseção entre direito e as novas tecnologias. Pesquisas desenvolvidas em privacidade e proteção de dados, cibercultura, surveillance, propriedade intelectual, entre outros temas.
