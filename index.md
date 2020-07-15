@@ -9,9 +9,9 @@ title: "João Víctor Vieira Carneiro"
 
 Estudante de Direito na Universidade Federal do Paraná e técnico em informática.
 
-Membro do *Grupo de Estudos de Direito Autoral e Industrial* ([GEDAI](http://gedai.com.br)).
+Membro do *Grupo de Estudos de Direito Autoral e Industrial* ([GEDAI](https://gedai.com.br)).
 
-Membro do grupo *Direito, Biotecnologia e Sociedade* ([BIOTEC](http://www.direito.ufpr.br/portal/biotec/)).
+Membro do grupo *Direito, Biotecnologia e Sociedade* ([BIOTEC](https://biotec.ufpr.br)).
 
 Pesquisador de iniciação científica, sob orientação da profª Adriana Corrêa.
 
