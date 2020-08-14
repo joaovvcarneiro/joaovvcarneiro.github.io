@@ -44,7 +44,7 @@
     <!-- Facebook Open Graph -->
     <meta name="og:description" content="Site pessoal e blog.">
     <meta name="og:title" content="João Víctor Vieira Carneiro">
-    <meta name="og:url" content="">
+    <meta name="og:url" content="{{ site.baseurl }}">
     <meta name="og:type" content="website">
     {% if site.og_image %}
         <meta name="og:image" content="{{ site.og_image }}">
@@ -56,7 +56,7 @@
     <meta name="twitter:card" content="summary">
     <meta name="twitter:title" content="{{ site.title }}">
     <meta name="twitter:description" content="{{ desc }}">
-    <meta name="twitter:url" content="{{ url }}">
+    <meta name="twitter:url" content="{{ site.url }}">
     {% if site.twitter_image %}
         <meta name="twitter:image" content="{{ site.twitter_image }}">
     {% else %}
