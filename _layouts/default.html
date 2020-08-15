@@ -26,9 +26,9 @@
         {% assign desc = site.description %}
     {% endif %}
     {% if page.url != "/" %}
-        {% assign url = page.url | absolute_url %}
+        {% assign currurl = page.url | absolute_url %}
     {% else %}
-        {% assign url = site.url %}
+        {% assign currurl = site.url %}
     {% endif %}
     <meta name="description" content="{{ desc }}">
     <link href='https://fonts.googleapis.com/css?family=Inconsolata:400,700' rel='stylesheet' type='text/css'>
@@ -42,7 +42,7 @@
     <!-- Facebook Open Graph -->
     <meta property="og:description" content="Site pessoal e blog." />
     <meta property="og:title" content="João Víctor Vieira Carneiro" />
-    <meta property="og:url" content="{{ url }}" />
+    <meta property="og:url" content="{{ currurl }}" />
     <meta property="og:type" content="website" />
     <meta property="og:locale" content="pt_BR" />
     {% if site.og_image %}
@@ -55,7 +55,7 @@
     <meta name="twitter:card" content="summary">
     <meta name="twitter:title" content="{{ site.title }}">
     <meta name="twitter:description" content="{{ desc }}">
-    <meta name="twitter:url" content="{{ url }}">
+    <meta name="twitter:url" content="{{ currurl }}">
     {% if site.twitter_image %}
         <meta name="twitter:image" content="{{ site.twitter_image }}">
     {% else %}
