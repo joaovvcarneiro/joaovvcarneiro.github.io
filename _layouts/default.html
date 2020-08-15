@@ -27,10 +27,8 @@
     {% endif %}
     {% if page.url %}
         {% assign url = site.baseurl | append page.url %}
-        <script> alert('hue');</script>
     {% else %}
         {% assign url = site.url %}
-        <script> alert('euh');</script>
     {% endif %}
     <meta name="description" content="{{ desc }}">
     <link href='https://fonts.googleapis.com/css?family=Inconsolata:400,700' rel='stylesheet' type='text/css'>
