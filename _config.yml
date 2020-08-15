@@ -4,6 +4,7 @@ url: "https://joaovvcarneiro.github.io"
 baseurl: "https://joaovvcarneiro.github.io"
 plugins:
   - jekyll-sitemap
+  - jekyll-seo-tag
   - jekyll-paginate
 
 markdown: kramdown
