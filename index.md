@@ -1,8 +1,9 @@
 ---
 layout: default
+title:
 ---
 
-## Teste
+## Sobre
 
 <img class="profile-picture" src="/assets/img/foto-jv.png">
 
