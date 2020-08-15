@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "João Víctor Vieira Carneiro"
+title: "Home"
 ---
 
 ## Sobre
