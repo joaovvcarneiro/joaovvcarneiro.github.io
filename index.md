@@ -4,7 +4,7 @@ layout: default
 
 ## Sobre
 
-<img class="profile-picture" src="foto-jv.png">
+<img class="profile-picture" src="/assets/img/foto-jv.png">
 
 Estudante de Direito na Universidade Federal do Paraná e técnico em informática.
 
