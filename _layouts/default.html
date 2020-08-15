@@ -26,7 +26,7 @@
         {% assign desc = site.description %}
     {% endif %}
     {% if page.url != "/" %}
-        {% assign currurl = page.url | absolute_url %}
+        {% assign currurl = page.url %}
     {% else %}
         {% assign currurl = site.url %}
     {% endif %}
