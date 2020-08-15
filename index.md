@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Sobre
+## Teste
 
 <img class="profile-picture" src="/assets/img/foto-jv.png">
 
