@@ -25,7 +25,7 @@
     {% else %}
         {% assign desc = site.description %}
     {% endif %}
-    {% if page.url %}
+    {% if page.url != "/" %}
         {% assign url = page.url | absolute_url %}
     {% else %}
         {% assign url = site.url %}
