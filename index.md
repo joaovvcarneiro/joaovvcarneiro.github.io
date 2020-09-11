@@ -21,7 +21,7 @@ A interseção entre direito e as novas tecnologias. Pesquisas desenvolvidas em 
 
 ## Publicações selecionadas
 
-1. Loureiro, M.B.;Carneiro, J.V.V. Problematizando o direito à privacidade e à proteção de dados pessoais em face da vigilância biométrica. _Teknokultura: Revista De Cultura Digital Y Movimientos Sociales_, 2020, 17(2), 204-213. [Link](https://doi.org/10.5209/tekn.69479)
+1. Loureiro, M.B.; Carneiro, J.V.V. Problematizando o direito à privacidade e à proteção de dados pessoais em face da vigilância biométrica. _Teknokultura: Revista De Cultura Digital Y Movimientos Sociales_, 2020, 17(2), 204-213. [Link](https://doi.org/10.5209/tekn.69479)
 
 1. Freitas, C.O.A; Carneiro, J.V.V.; Glasmeyer, R.J.S. O tratamento de dados pessoais e sensíveis frente ao contact tracing durante o Covid-19. _Boletim do GEDAI_, 2020. [Link](https://www.gedai.com.br/o-tratamento-de-dados-pessoais-e-sensiveis-frente-ao-contact-tracing-durante-o-covid-19/)
 
