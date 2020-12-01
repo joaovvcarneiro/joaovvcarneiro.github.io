@@ -21,7 +21,7 @@ A interseção entre direito e as novas tecnologias. Pesquisas desenvolvidas em 
 
 ## Publicações selecionadas
 
-1. Macohin, A.; Carneiro, J.V.V. _Web crawling_ e _webs scraping_ em sites de tribunais: publicidade processual e proteção de dados pessoais nas experiências europeia e brasileira. In: Wachowicz, M. _Proteção de dados em perspectiva: LGPD e RPGD na ótica do direito comparado_. Curitiba: GEDAI, p. 534-561, 2020. [Link](https://www.gedai.com.br/wp-content/uploads/2020/11/Protecao-de-dados-pessoais-em-perspectiva_ebook.pdf)
+1. Macohin, A.; Carneiro, J.V.V. Web crawling e web scraping em sites de tribunais: publicidade processual e proteção de dados pessoais nas experiências europeia e brasileira. In: Wachowicz, M. _Proteção de dados em perspectiva: LGPD e RPGD na ótica do direito comparado_. Curitiba: GEDAI, p. 534-561, 2020. [Link](https://www.gedai.com.br/wp-content/uploads/2020/11/Protecao-de-dados-pessoais-em-perspectiva_ebook.pdf)
 
 2. Loureiro, M.B.; Carneiro, J.V.V. Problematizando o direito à privacidade e à proteção de dados pessoais em face da vigilância biométrica. _Teknokultura: Revista De Cultura Digital Y Movimientos Sociales_, 2020, 17(2), 204-213. [Link](https://doi.org/10.5209/tekn.69479)
 
