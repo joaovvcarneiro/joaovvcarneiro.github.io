@@ -21,19 +21,19 @@ A interseção entre direito e as novas tecnologias. Pesquisas desenvolvidas em 
 
 ## Publicações selecionadas
 
-1. Loureiro, M.B.; Carneiro, J.V.V. Problematizando o direito à privacidade e à proteção de dados pessoais em face da vigilância biométrica. _Teknokultura: Revista De Cultura Digital Y Movimientos Sociales_, 2020, 17(2), 204-213. [Link](https://doi.org/10.5209/tekn.69479)
+1. Macohin, A.; Carneiro, J.V.V. _Web crawling_ e _webs scraping_ em sites de tribunais: publicidade processual e proteção de dados pessoais nas experiências europeia e brasileira. In: Wachowicz, M. _Proteção de dados em perspectiva: LGPD e RPGD na ótica do direito comparado_. Curitiba: GEDAI, p. 534-561, 2020. [Link](https://www.gedai.com.br/wp-content/uploads/2020/11/Protecao-de-dados-pessoais-em-perspectiva_ebook.pdf)
 
-2. Freitas, C.O.A; Carneiro, J.V.V.; Glasmeyer, R.J.S. O tratamento de dados pessoais e sensíveis frente ao contact tracing durante o Covid-19. _Boletim do GEDAI_, 2020. [Link](https://www.gedai.com.br/o-tratamento-de-dados-pessoais-e-sensiveis-frente-ao-contact-tracing-durante-o-covid-19/)
+2. Loureiro, M.B.; Carneiro, J.V.V. Problematizando o direito à privacidade e à proteção de dados pessoais em face da vigilância biométrica. _Teknokultura: Revista De Cultura Digital Y Movimientos Sociales_, 2020, 17(2), 204-213. [Link](https://doi.org/10.5209/tekn.69479)
 
-3. Garmatter, B.B.; Carneiro, J.V.V.; Cortiano, M. Virtualização da cultura e a pandemia da Covid-19. _Boletim do GEDAI_, 2020. [Link](https://www.gedai.com.br/virtualizacao-da-cultura-e-a-pandemia-da-covid-19/)
+3. Freitas, C.O.A; Carneiro, J.V.V.; Glasmeyer, R.J.S. O tratamento de dados pessoais e sensíveis frente ao contact tracing durante o Covid-19. _Boletim do GEDAI_, 2020. [Link](https://www.gedai.com.br/o-tratamento-de-dados-pessoais-e-sensiveis-frente-ao-contact-tracing-durante-o-covid-19/)
 
-4. Carneiro, J.V.V. O fenômeno dos memes de Internet e suas repercussões no direito autoral. _Anais do XIII Codaip - Congresso de Direito de Autor e Interesse Público_, 2019, p. 275-284. [Link](https://www.gedai.com.br/wp-content/uploads/2020/06/Anais-XIII-CODAIP_Marcos-Wachowicz_eletr%C3%B4nico.pdf)
+4. Garmatter, B.B.; Carneiro, J.V.V.; Cortiano, M. Virtualização da cultura e a pandemia da Covid-19. _Boletim do GEDAI_, 2020. [Link](https://www.gedai.com.br/virtualizacao-da-cultura-e-a-pandemia-da-covid-19/)
 
-5. Carneiro, J.V.V. Proteção de dados pessoais e direito à informação: impasses na gestão de arquivos públicos e o caso dos documentos da ditadura (1964-1985). _Revista do Arquivo do Estado de São Paulo_, n. 9, 2019. [Link](http://www.arquivoestado.sp.gov.br/revista_do_arquivo/09/artigo_03.php)
+5. Carneiro, J.V.V. O fenômeno dos memes de Internet e suas repercussões no direito autoral. _Anais do XIII Codaip - Congresso de Direito de Autor e Interesse Público_, 2019, p. 275-284. [Link](https://www.gedai.com.br/wp-content/uploads/2020/06/Anais-XIII-CODAIP_Marcos-Wachowicz_eletr%C3%B4nico.pdf)
 
-6. Cramar, M.; Carneiro, J.V.V. A composição de músicas por inteligência artificial e sua tutela pelo direito autoral. _Boletim do GEDAI_, 2019. [Link](http://www.gedai.com.br/outubro-de-2019/a-composicao-de-musicas-por-inteligencia-artificial-e-sua-tutela-pelo-direito-autoral/)
+6. Carneiro, J.V.V. Proteção de dados pessoais e direito à informação: impasses na gestão de arquivos públicos e o caso dos documentos da ditadura (1964-1985). _Revista do Arquivo do Estado de São Paulo_, n. 9, 2019. [Link](http://www.arquivoestado.sp.gov.br/revista_do_arquivo/09/artigo_03.php)
 
-7. Carneiro, J.V.V. Entre norma jurídica e ciberespaço: breves considerações. _Folha do Centro Acadêmico Hugo Simas_, 2019. [Link](https://drive.google.com/file/d/1r6appTMrU0cIBbHbb7Z3W56hl86UV-ea/view#page=6)
+7. Cramar, M.; Carneiro, J.V.V. A composição de músicas por inteligência artificial e sua tutela pelo direito autoral. _Boletim do GEDAI_, 2019. [Link](http://www.gedai.com.br/outubro-de-2019/a-composicao-de-musicas-por-inteligencia-artificial-e-sua-tutela-pelo-direito-autoral/)
 
 8. Glasmeyer, R.J.S.; Carneiro, J.V.V. O Artigo 13 da Diretiva do Parlamento Europeu e do Conselho Relativa aos Direitos de Autor no Mercado Único Digital: os filtros de conteúdo e o porquê da impossibilidade de uma análise meramente técnica dos direitos autorais. _Anais do XII CODAIP - Congresso de Direito de Autor e Interesse Público_, 2018. [Link](http://www.gedai.com.br/wp-content/uploads/2019/05/002-O-ARTIGO-13-DA-DIRETIVA-DO-PARLAMENTO-EUROPEU.pdf)
 
