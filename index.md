@@ -9,6 +9,8 @@ title: ""
 
 Estudante de Direito na Universidade Federal do Paraná e técnico em informática.
 
+Estagiário no Instituto de Tecnologia e Sociedade ([ITS Rio](https://itsrio.org/pt/home/)). 
+
 Membro do *Grupo de Estudos de Direito Autoral e Industrial* ([GEDAI](https://gedai.com.br)).
 
 Membro do grupo *Direito, Biotecnologia e Sociedade* ([BIOTEC](https://biotec.ufpr.br)).
