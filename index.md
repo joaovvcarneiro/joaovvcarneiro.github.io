@@ -11,9 +11,7 @@ Estudante de Direito na Universidade Federal do Paraná e técnico em informáti
 
 Estagiário no Instituto de Tecnologia e Sociedade ([ITS Rio](https://itsrio.org/pt/home/)). 
 
-Membro do *Grupo de Estudos de Direito Autoral e Industrial* ([GEDAI](https://gedai.com.br)).
-
-Membro do grupo *Direito, Biotecnologia e Sociedade* ([BIOTEC](https://biotec.ufpr.br)).
+Membro do *Grupo de Estudos de Direito Autoral e Industrial* ([GEDAI](https://gedai.com.br)) e do grupo *Direito, Biotecnologia e Sociedade* ([BIOTEC](https://biotec.ufpr.br)).
 
 Pesquisador de iniciação científica, sob orientação da profª Adriana Corrêa.
 
